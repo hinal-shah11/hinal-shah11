@@ -18,12 +18,12 @@ Blending over 1.5+ years of experience in ML, Data Science,Business Intelligence
 ### Tech Toolbox 🛠️
 - **Programming Languages** - Python (Pandas, Numpy, Matplotlib, Seaborn, Sklearn), R Programming (Basic Knowledge).
 - **Databases**- MYSQL, MongoDB, BigQuery
--**Business Intelligence Tool**- MS Excel, Google Sheets, Power BI.
--**Machine Learning Algorithms**- Linear Regression, Logistic Regression, KNN, SVM, Decision Trees, Random Forests,
+- **Business Intelligence Tool**- MS Excel, Google Sheets, Power BI.
+- **Machine Learning Algorithms**- Linear Regression, Logistic Regression, KNN, SVM, Decision Trees, Random Forests,
 XGBoost, LightGBM, ARIMA, SARIMA.
--**Statistical Analysis**- Descriptive and inferential statistics, Hypothesis Testing, Regression Analysis.
--**Generative AI**- Prompt engineering, API integration
--**Soft Skills**- Documentation, Deck Creation, Communication, Team Collaboration, and Problem-Solving.
+- **Statistical Analysis**- Descriptive and inferential statistics, Hypothesis Testing, Regression Analysis.
+- **Generative AI**- Prompt engineering, API integration
+- **Soft Skills**- Documentation, Deck Creation, Communication, Team Collaboration, and Problem-Solving.
 
 
 ### Education 🎓
